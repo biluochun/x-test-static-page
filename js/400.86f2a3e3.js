@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkx_metaverse_defi_fe"]=self["webpackChunkx_metaverse_defi_fe"]||[]).push([[400],{2400:function(e,s,t){t.r(s),t.d(s,{default:function(){return o}});var a=t(3396),n=t(7139),u=t(4870);const r={class:"home"};var c=(0,a.aZ)({setup(e){const s=(0,u.iH)(0);return(0,a.bv)((()=>{console.log(`计数器初始值为 ${s.value}。`)})),(e,t)=>((0,a.wg)(),(0,a.iD)("div",r,"点击了："+(0,n.zw)(s.value)+" 次",1))}});const f=c;var o=f}}]);
+//# sourceMappingURL=400.86f2a3e3.js.map
